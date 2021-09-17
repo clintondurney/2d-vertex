@@ -12,9 +12,9 @@ Functionality is provided as is and written for my own applications.  Little kno
 
 ## To use:
 __Installation__
-Use [Conda](https://docs.conda.io/en/latest/) to create the environment from the .yml file:
+Use [Conda](https://docs.conda.io/en/latest/) to create the environment from the .yaml file:
 ```
-conda env create -f vertex.yml 
+conda env create -f vertex.yaml python=3.7
 ```
 
 __Running__
